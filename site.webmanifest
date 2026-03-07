@@ -1,0 +1,21 @@
+{
+  "name": "Praneeth Kondraju Website",
+  "short_name": "Praneeth",
+  "description": "Portfolio site for Praneeth Kondraju covering reliability engineering and disaster recovery automation.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#f5f6f2",
+  "icons": [
+    {
+      "src": "./images/Praneeth_Profile_Picture_320.jpg",
+      "sizes": "320x320",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "./images/Praneeth_Profile_Picture_640.jpg",
+      "sizes": "640x640",
+      "type": "image/jpeg"
+    }
+  ]
+}
